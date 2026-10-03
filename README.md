@@ -19,13 +19,6 @@ The program also checks whether each number in the given range is **Even or Odd*
 - Handles invalid menu choices
 
 ##  Project Structure
-
-```text
-Pattern-Generator-and-Number-Analyzer/
-│
-├── main.py
-└── README.md
-Concepts Used
 Variables
 input()
 print()
