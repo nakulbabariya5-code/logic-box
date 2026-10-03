@@ -19,15 +19,15 @@ The program also checks whether each number in the given range is **Even or Odd*
 - Handles invalid menu choices
 
 ##  Project Structure
-_Variables
+_ Variables
 _ input()
 _ print()
-_if=elif-else
-_forloop
-_while loop
--range()
-_Modulus operator %
-_Arithmetic operations
-_Menu-driven programming
-_Pattern generation
-_Even/Odd number checking
+_ if=elif-else
+_ forloop
+_ while loop
+_ range()
+_ Modulus operator %
+_ Arithmetic operations
+_ Menu-driven programming
+_ Pattern generation
+_ Even/Odd number checking
