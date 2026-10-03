@@ -17,7 +17,9 @@ The program also checks whether each number in the given range is **Even or Odd*
 - Calculate the sum of numbers in a given range
 - Menu-driven program
 - Handles invalid menu choices
-
+## project structure 
+_ main.py
+- README.md
 ##  Project Structure
 _ Variables
 _ input()
