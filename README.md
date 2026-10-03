@@ -18,7 +18,7 @@ The program also checks whether each number in the given range is **Even or Odd*
 - Menu-driven program
 - Handles invalid menu choices
 ## project structure 
-_ main.py
+- main.py
 - README.md
 ##  Project Structure
 _ Variables
