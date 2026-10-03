@@ -21,15 +21,15 @@ The program also checks whether each number in the given range is **Even or Odd*
 - main.py
 - README.md
 ##  Project Structure
-_ Variables
-_ input()
-_ print()
-_ if=elif-else
-_ forloop
-_ while loop
-_ range()
-_ Modulus operator %
-_ Arithmetic operations
-_ Menu-driven programming
-_ Pattern generation
-_ Even/Odd number checking
+- Variables
+- input()
+- print()
+- if=elif-else
+- forloop
+- while loop
+- range()
+- Modulus operator %
+- Arithmetic operations
+- Menu-driven programming
+- Pattern generation
+- Even/Odd number checking
