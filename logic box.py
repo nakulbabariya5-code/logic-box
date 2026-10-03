@@ -1,37 +1,38 @@
-print("Welcome to the Pattern Generator and Number Analyzer!")
-
+ print("Welcome to the Pattern Generator and Number Analyzer!")
 while True:
-    print()
-    print("Menu:")
+    print("\nSelect an option:")
     print("1. Generate a Pattern")
     print("2. Analyze a Range of Numbers")
-    print("3. Exit")
+    print("3. Exit")    
+    choice = int(input("Enter your choice: "))
+    if choice == 1:
 
-    choice = input("Enter your choice: ")
+        rows = int(input("Enter the number of rows for the pattern: "))
 
-    if choice == "1":
-        rows = int(input("How many rows? "))
-        print()
+        print("\nPattern:")
+
         for i in range(1, rows + 1):
             print("*" * i)
+    elif choice == 2:
 
-    elif choice == "2":
-        start = int(input("Start number: "))
-        end = int(input("End number: "))
+        start = int(input("\nEnter the start of the range: "))
+        end = int(input("Enter the end of the range: "))
 
         total = 0
+
         for number in range(start, end + 1):
+
             if number % 2 == 0:
-                print(number, "is even")
+                print(f"Number {number} is Even")
             else:
-                print(number, "is odd")
+                print(f"Number {number} is Odd")
+
             total = total + number
 
-        print("Sum from", start, "to", end, "is", total)
+        print(f"Sum of all numbers from {start} to {end} is: {total}")
+    elif choice == 3:
 
-    elif choice == "3":
-        print(" Exiting program Good Bye!  ")
+        print("Exiting the program. Goodbye!")
         break
-
     else:
-        print("Invalid choice, try again.") 
+        print("Invalid choice! Please select 1, 2, or 3.")
