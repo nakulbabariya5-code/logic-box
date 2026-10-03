@@ -30,7 +30,7 @@ while True:
         print("Sum from", start, "to", end, "is", total)
 
     elif choice == "3":
-        print(" Good Bye! ")
+        print(" Exiting program Good Bye!  ")
         break
 
     else:
