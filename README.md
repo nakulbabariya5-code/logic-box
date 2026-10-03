@@ -1,6 +1,6 @@
 # Pattern Generator and Number Analyzer
 
-## 📌 Project Description
+##  Project Description
 
 This is a menu-driven Python program that allows the user to:
 
@@ -18,7 +18,7 @@ The program also checks whether each number in the given range is **Even or Odd*
 - Menu-driven program
 - Handles invalid menu choices
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Pattern-Generator-and-Number-Analyzer/
