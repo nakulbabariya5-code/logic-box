@@ -11,14 +11,14 @@ This is a menu-driven Python program that allows the user to:
 The program also checks whether each number in the given range is **Even or Odd** and calculates the **sum of all numbers** in that range.
 
 #  Features
-- Generate a star pattern based on the number of rows
-- Check numbers as Even or Odd
-- Calculate the sum of numbers in a given range
-- Menu-driven program
-- Handles invalid menu choices
+ 1.Generate a star pattern based on the number of rows
+ 2.Check numbers as Even or Odd
+ 3.Calculate the sum of numbers in a given range
+ 4.Menu-driven program
+ 5.Handles invalid menu choices
 # project structure 
-- main.py
-- README.md
+1. main.py
+2. EADME.md
 #  Project Structure
 - Variables
 - input()
