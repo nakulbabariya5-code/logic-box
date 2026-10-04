@@ -1,6 +1,6 @@
 # Pattern Generator and Number Analyzer
 
-##  Project Description
+#  Project Description
 
 This is a menu-driven Python program that allows the user to:
 
@@ -10,17 +10,16 @@ This is a menu-driven Python program that allows the user to:
 
 The program also checks whether each number in the given range is **Even or Odd** and calculates the **sum of all numbers** in that range.
 
-##  Features
-
+#  Features
 - Generate a star pattern based on the number of rows
 - Check numbers as Even or Odd
 - Calculate the sum of numbers in a given range
 - Menu-driven program
 - Handles invalid menu choices
-## project structure 
+# project structure 
 - main.py
 - README.md
-##  Project Structure
+#  Project Structure
 - Variables
 - input()
 - print()
