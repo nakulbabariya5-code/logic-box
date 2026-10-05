@@ -1,4 +1,4 @@
-# Pattern Generator and Number Analyzer
+# Project 2 Logic box
 
 #  Project Description
 
