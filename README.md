@@ -4,11 +4,11 @@
 
 This is a menu-driven Python program that allows the user to:
 
-1. Generate a star pattern
-2. Analyze a range of numbers
-3. Exit the program
+1. generate a star pattern
+2. analyze a range of numbers
+3. exit the program
 
-The program also checks whether each number in the given range is **Even or Odd** and calculates the **sum of all numbers** in that range.
+The program  checks whether each number in the given range is **Even or Odd**
 
 #  Features
 - 1.Generate a star pattern based on the number of rows
